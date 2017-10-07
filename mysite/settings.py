@@ -25,7 +25,7 @@ SECRET_KEY = 'eke_p9x5m@#qtz3^-4o&4o2=s_k=5%f^^-b_!card&5+q86vq0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<cherrytree>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'cherrytree.pythonanywhere.com']
 
 # Application definition
 
